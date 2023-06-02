@@ -1,4 +1,4 @@
-# Challenge 9; README generator
+README generator
 
   ## Table of Contents
 
